@@ -1,4 +1,4 @@
-Hi there 👋 I'm William, nice to meet you.
+<strong>Hi there 👋 I'm William, nice to meet you.<strong>
 
 
 
